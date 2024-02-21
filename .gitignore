@@ -9,3 +9,5 @@ ipython_config.py
 # OS
 **/.DS_Store
 
+# VS Code
+.idea
