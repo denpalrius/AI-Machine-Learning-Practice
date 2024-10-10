@@ -16,6 +16,10 @@ yolo-8/runs
 yolo-8/yolov8s.pt
 
 # Data
-data/
+datasets/
 
-medical_imaging/tb_model.pth
+# PyTorch models
+**.pth
+
+# Python env
+ai-ml/**
