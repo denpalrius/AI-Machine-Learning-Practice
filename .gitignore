@@ -23,3 +23,4 @@ datasets/
 
 # Python env
 ai-ml/**
+embeddings/**/model.bin
