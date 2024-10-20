@@ -24,3 +24,7 @@ datasets/
 # Python env
 ai-ml/**
 embeddings/**/model.bin
+
+# Models
+**.h5
+**.hdf5
