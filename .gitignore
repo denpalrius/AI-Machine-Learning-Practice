@@ -28,3 +28,4 @@ embeddings/**/model.bin
 # Models
 **.h5
 **.hdf5
+**.keras
