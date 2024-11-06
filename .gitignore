@@ -29,3 +29,12 @@ embeddings/**/model.bin
 **.h5
 **.hdf5
 **.keras
+
+# Video RNN files
+computer_vision/video_rnn/ucf101_top5.tar.gz
+computer_vision/video_rnn/ucf101_top5.tar.gz.1
+computer_vision/video_rnn/train.csv
+computer_vision/video_rnn/test.csv
+computer_vision/video_rnn/train
+computer_vision/video_rnn/test/
+computer_vision/video_rnn/animation.gif
